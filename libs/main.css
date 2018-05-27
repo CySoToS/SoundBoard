@@ -16,13 +16,17 @@ h1 {
 
 #items {
     height: 27vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    border-style: solid;
+    border-color: white;
 }
 
 html body {
     padding-top: 50px;
 }
 
-footer .col-xs-4 {
+footer .col {
     background-color: black;
     text-align: right;
     color: white;
